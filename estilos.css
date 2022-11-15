@@ -1,0 +1,55 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+}
+.lista1{
+    color: blue;
+    font-size: 20px;
+    
+}
+.lista11{
+    list-style: none;
+    
+}
+
+.lista2{
+    color: rgb(253, 167, 55);
+    font-size: 20px;
+    
+}
+.lista22{
+    list-style:circle;
+    
+}
+
+.lista3{
+    color: rgb(8, 131, 84);
+    font-size: 20px;
+    
+}
+.lista33{
+    list-style-type: square;
+    
+}
+
+.lista4{
+    color: blue;
+    font-size: 20px;
+    
+}
+.lista44{
+    list-style-type:lower-roman;
+    
+}
+
+.lista5{
+    color: blue;
+    font-size: 20px;
+    
+}
+.lista55{
+    list-style-type:lower-greek
+    
+}
+
